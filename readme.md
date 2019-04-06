@@ -1,4 +1,4 @@
-# test assignment 9 - Load testing
+# Test assignment 9 - Load testing
 
 I am going to upload a javascript mocha test with selenium as the runner.
 
